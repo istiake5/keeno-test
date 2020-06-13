@@ -9,11 +9,6 @@ Clone this repository
 ```bash
 git clone https://github.com/istiake5/keeno-test.git
 ```
-Now install npm
-
-```bash
-npm install
-```
 
 Now install composer
 
@@ -31,6 +26,12 @@ Database Setup
 
 ```bash
 php artisan migrate --seed
+```
+
+Now install npm
+
+```bash
+npm install
 ```
 
 Finally
