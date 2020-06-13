@@ -7,7 +7,7 @@
 Clone this repository
 
 ```bash
-git clone https://github.com/istiake5/keeno-test
+git clone https://github.com/istiake5/keeno-test.git
 ```
 
 Now install composer
